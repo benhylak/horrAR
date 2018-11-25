@@ -1,0 +1,478 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "2449242cafaeb6f59cc81842f77d57e970c84f44",
+   "pkgpath": "Data/0000000000000000f000000000000000",
+   "size": 39020,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/0000000000000000f000000000000000"
+  },
+  {
+   "compression": 8,
+   "hash": "dab0cded541a2a635d2556543ba0ffb6efd0bc5e",
+   "pkgpath": "Data/0b7e3b77b1fc74b639825b9b8e5ddb81",
+   "size": 4544,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/0b7e3b77b1fc74b639825b9b8e5ddb81"
+  },
+  {
+   "compression": 8,
+   "hash": "d51aa46b1c47f17f3798b0aae299ef7b23b9cf23",
+   "pkgpath": "Data/0eb598492766f4a6d9dc76017d64f57a",
+   "size": 4236,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/0eb598492766f4a6d9dc76017d64f57a"
+  },
+  {
+   "compression": 8,
+   "hash": "e57371d6a7ddb7cf5d079a93c2a9cf0bd56915b5",
+   "pkgpath": "Data/0eb598492766f4a6d9dc76017d64f57a.resS",
+   "size": 349552,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/0eb598492766f4a6d9dc76017d64f57a.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "5d372ba476eead9f5f4512f25d698eeb774cdcc7",
+   "pkgpath": "Data/4cc45e4dad006426e8c62aff1240b894",
+   "size": 4244,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/4cc45e4dad006426e8c62aff1240b894"
+  },
+  {
+   "compression": 8,
+   "hash": "086a8982896fd0f79424a0bfa022b4489eb60c6e",
+   "pkgpath": "Data/4cc45e4dad006426e8c62aff1240b894.resS",
+   "size": 349552,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/4cc45e4dad006426e8c62aff1240b894.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "848f12b1f4a9fac547252c51d8828d14e05227a2",
+   "pkgpath": "Data/52d7c5ee3e0cf43d9b5aab3e5df17e7d",
+   "size": 18052,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/52d7c5ee3e0cf43d9b5aab3e5df17e7d"
+  },
+  {
+   "compression": 8,
+   "hash": "0abc6884d32ff053d7abd2663cda6eab9a7ea409",
+   "pkgpath": "Data/565a3425a1d18224da864f597f3c22db",
+   "size": 5052,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/565a3425a1d18224da864f597f3c22db"
+  },
+  {
+   "compression": 8,
+   "hash": "0793a10cff71de37260c7697e4640ed27ab38e36",
+   "pkgpath": "Data/6cae2f82a0a62ff4ab9be3eeeda19688",
+   "size": 180444,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/6cae2f82a0a62ff4ab9be3eeeda19688"
+  },
+  {
+   "compression": 8,
+   "hash": "51e126e4f640d8222c5022d454450f081f744c62",
+   "pkgpath": "Data/80186bec0c85545af8940e55ba620749",
+   "size": 40460,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/80186bec0c85545af8940e55ba620749"
+  },
+  {
+   "compression": 8,
+   "hash": "443ab1e4273148e2d1090929b6d39e2ead118e2d",
+   "pkgpath": "Data/89cb17ce6d76c46668922c09a46b97a2",
+   "size": 4244,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/89cb17ce6d76c46668922c09a46b97a2"
+  },
+  {
+   "compression": 8,
+   "hash": "f8c5ed833130bc469c47f739106940553c51eaea",
+   "pkgpath": "Data/89cb17ce6d76c46668922c09a46b97a2.resS",
+   "size": 349552,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/89cb17ce6d76c46668922c09a46b97a2.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "0f0b92cd6445c852d9f68de43648e7c9ee4c2bfb",
+   "pkgpath": "Data/8d62b1b538b2045779d60431588fe5b4",
+   "size": 5044,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/8d62b1b538b2045779d60431588fe5b4"
+  },
+  {
+   "compression": 8,
+   "hash": "390bae1d9f99b0f8461f03660a155e554a49f81d",
+   "pkgpath": "Data/964a6c9991169944794a4df3a8519df1",
+   "size": 4236,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/964a6c9991169944794a4df3a8519df1"
+  },
+  {
+   "compression": 8,
+   "hash": "23ec039b113cc7eba3593c8ab9c9ccbf10992c05",
+   "pkgpath": "Data/964a6c9991169944794a4df3a8519df1.resS",
+   "size": 349552,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/964a6c9991169944794a4df3a8519df1.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "ccf4d95a8c516fa0ea12c5272e4b7b4dfcb83bba",
+   "pkgpath": "Data/9b2da876e21764dd5934cf18ac09df88",
+   "size": 4244,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/9b2da876e21764dd5934cf18ac09df88"
+  },
+  {
+   "compression": 8,
+   "hash": "4ba69e9ceb58034a2eea787d2b7a16f3ec7723a1",
+   "pkgpath": "Data/9b2da876e21764dd5934cf18ac09df88.resS",
+   "size": 699064,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/9b2da876e21764dd5934cf18ac09df88.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "f906262312208f407f677b57b7f22ae7ac8606fe",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 5396724,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "17200072133266d06a0ff3ab3b07f308db285e71",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 61604792,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/benhylak/Downloads/privatekey/macbook.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "c24bf5377c2b6e6987552a67a13ec3fe8276ccae",
+   "xfrm_path": "/Users/benhylak/Git/horrAR/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-77c36baaa3a1ac1e/libil2cpp.so-d8d887f4da2630f2",
+   "xfrm_size": 61605550
+  },
+  {
+   "compression": 8,
+   "hash": "99be27c27e2af134a459a05f2240800e1a0eddd0",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 247376,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/benhylak/Downloads/privatekey/macbook.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "a7a8d89e16752e2f2a9b93a0d4672a04ff99173c",
+   "xfrm_path": "/Users/benhylak/Git/horrAR/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-77c36baaa3a1ac1e/AudioPluginMSASpatializer.so-f0cfe5c1d03f5664",
+   "xfrm_size": 248134
+  },
+  {
+   "compression": 8,
+   "hash": "e1d6a3392ecde066ea0cc34538e9839d8d87671d",
+   "pkgpath": "bin/UnityEngine.SpatialTracking.dll",
+   "size": 9216,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "c0a15a2993e1f9df9db7db864cb0c8f8fa94ca45",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 65536,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "d93ff7b64d92abd6dbb8419c3348ab5f56ad5ec5",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 728232,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/benhylak/Downloads/privatekey/macbook.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "08b154b8f068f9ae619522738d443835d696d799",
+   "xfrm_path": "/Users/benhylak/Git/horrAR/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-77c36baaa3a1ac1e/UnityMagicLeap.so-f0cfe5c1d03f5664",
+   "xfrm_size": 728990
+  },
+  {
+   "compression": 8,
+   "hash": "2769affdc8da0f6923bee02d6928163c6d1ee44f",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/benhylak/Downloads/privatekey/macbook.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "155beb3cf094c30840b15bfee1350f8eba2d2971",
+   "xfrm_path": "/Users/benhylak/Git/horrAR/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-77c36baaa3a1ac1e/libml_camera_plugin.so-f0cfe5c1d03f5664",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "d8be78bce4b9d6484096ddc11bbdaf7a8ea4da11",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 30528,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/benhylak/Downloads/privatekey/macbook.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "022c16c1c23306ce0dd7894e6fe11b2949a1edc0",
+   "xfrm_path": "/Users/benhylak/Git/horrAR/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-77c36baaa3a1ac1e/libml_mediaplayer_plugin.so-f0cfe5c1d03f5664",
+   "xfrm_size": 31286
+  },
+  {
+   "compression": 8,
+   "hash": "5629c7ff5fb59ddc72778d4b9d3dbadcde480998",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 328192,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "991bb8f7486d040646093200316c75e9bd8b8172",
+   "pkgpath": "Data/Resources/System.dll-resources.dat",
+   "size": 54703,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/Resources/System.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "5c08950d8b5f894cbcbdacb57a5e5ccc33a80b42",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 372023,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "dc1423ee40a78f4701880b37e1f07bc4f3500e9d",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3308004,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "1a992ef2c40155d35c04ae43e256729d23934be6",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 286156,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "9bbb5e3aae616602db933abd34140e11132fccea",
+   "pkgpath": "Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json",
+   "size": 438,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "aaa0d41eaedbe642da32d0e2a5d11d285a01d609",
+   "pkgpath": "Data/bb6e21fc33d021445997c0c0f718d561",
+   "size": 4240,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/bb6e21fc33d021445997c0c0f718d561"
+  },
+  {
+   "compression": 8,
+   "hash": "165ebf7603b75b9920dd460594c326c89531d89e",
+   "pkgpath": "Data/bb6e21fc33d021445997c0c0f718d561.resS",
+   "size": 174776,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/bb6e21fc33d021445997c0c0f718d561.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "e94169e04982098c15b71dea64d4bb6da942f232",
+   "pkgpath": "Data/boot.config",
+   "size": 76,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "96e5e215a627bb5a766c1e6064be06be618b1fa8",
+   "pkgpath": "Data/cd6653933fed14b529b1a0103f7fa604",
+   "size": 4244,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/cd6653933fed14b529b1a0103f7fa604"
+  },
+  {
+   "compression": 8,
+   "hash": "f6ae6c3a64db82fe8cd5bb14a8c2959c56d2a539",
+   "pkgpath": "Data/cd6653933fed14b529b1a0103f7fa604.resS",
+   "size": 699064,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/cd6653933fed14b529b1a0103f7fa604.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "c43af047d06922d08ef67af336474ba0a551f192",
+   "pkgpath": "Data/d0b199e2fdb6546b5a586c9f1989efc6",
+   "size": 4248,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/d0b199e2fdb6546b5a586c9f1989efc6"
+  },
+  {
+   "compression": 8,
+   "hash": "e1b05f8a5d3a492a8617af806083cf64f1b01959",
+   "pkgpath": "Data/d0b199e2fdb6546b5a586c9f1989efc6.resS",
+   "size": 699064,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/d0b199e2fdb6546b5a586c9f1989efc6.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "702a66fe721279b917d22e85841642337c8f7a10",
+   "pkgpath": "Data/d263be518b43c45958a9fabf6650fd2d",
+   "size": 16348,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/d263be518b43c45958a9fabf6650fd2d"
+  },
+  {
+   "compression": 8,
+   "hash": "af21dcc49527701f1bccc40e59adbfe23e1646c2",
+   "pkgpath": "Data/dd750d4bbe18c46cdb6fcb63d695c1df",
+   "size": 4244,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/dd750d4bbe18c46cdb6fcb63d695c1df"
+  },
+  {
+   "compression": 8,
+   "hash": "7655f94ebaa2b1329414e3a6b3c6b4d1732f0475",
+   "pkgpath": "Data/dd750d4bbe18c46cdb6fcb63d695c1df.resS",
+   "size": 699064,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/dd750d4bbe18c46cdb6fcb63d695c1df.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "b2ee0ece44a5d681751b1259f90ef22d3e9a06b1",
+   "pkgpath": "Data/e24eaabb02b65064e9b551f2517d09d3",
+   "size": 4240,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/e24eaabb02b65064e9b551f2517d09d3"
+  },
+  {
+   "compression": 8,
+   "hash": "0d9032c135780d05289933ceac13ced1888c0edc",
+   "pkgpath": "Data/e24eaabb02b65064e9b551f2517d09d3.resS",
+   "size": 174776,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/e24eaabb02b65064e9b551f2517d09d3.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "6d43cdd0d7c3770f06b536c2cbc937b46683908a",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 52064,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "94960557eaf667f4d214e70ec47357b1c433e194",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 35088,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "29af2f1d9c8d037f7e63e1d5eaed79c6f44e6719",
+   "pkgpath": "Data/level0",
+   "size": 46124,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "3fd19ba4613522306a737d0b653734e443d8bec4",
+   "pkgpath": "Data/level0.resS",
+   "size": 131232,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "ee8b8c98dfc66346b2d839855eb017f26c9ffc2a",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 4138268,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "5d35b3572bbe146af25927ad9e95e764e6a72eae",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 6038188,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "f1339f35c4fd1752f9a390cd8b5d79e8c0109155",
+   "pkgpath": "Data/sharedassets0.resource",
+   "size": 10220055,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Data/sharedassets0.resource"
+  },
+  {
+   "compression": 8,
+   "hash": "2941838c7996ccf3b3ce8ed1a7a864d172bd4b7c",
+   "pkgpath": "bin/Player.elf",
+   "size": 22314872,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/benhylak/Downloads/privatekey/macbook.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "9ea658ffaf64948dbef876de1c9fb385a3968164",
+   "xfrm_path": "/Users/benhylak/Git/horrAR/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-77c36baaa3a1ac1e/Player.elf-7a010929c852f4e6",
+   "xfrm_size": 22315630
+  },
+  {
+   "compression": 8,
+   "hash": "512617bb8971ba7062eb2b21bd4efe0983ebba27",
+   "pkgpath": "manifest.xml",
+   "size": 1140,
+   "src": "/Users/benhylak/Git/horrAR/Temp/StagingArea/manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "478c67bdea01dc43fc18893bc15c5016699ff0ce",
+     "developer_id": "2b9d3882-e5da-42e8-b768-67d388f1c530"
+    }
+   },
+   "xfrm_hash": "0607ac243d67414820bf41af35a486b3d7267842",
+   "xfrm_path": "/Users/benhylak/Git/horrAR/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-77c36baaa3a1ac1e/manifest.xml-7a010929c852f4e6",
+   "xfrm_size": 1153
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "/Users/benhylak/MagicLeap/mlsdk/v0.17.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/benhylak/Downloads/privatekey/macbook.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "d34ef9eeb6f368e8f2eb649020f46cfb62d2a42c",
+   "xfrm_path": "/Users/benhylak/Git/horrAR/.out/.cache/release_lumin_clang-3.8_aarch64/com.company.productname-77c36baaa3a1ac1e/libc++_shared.so-17fd18451add63cb",
+   "xfrm_size": 977590
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "/Users/benhylak/Downloads/privatekey/macbook.cert"
+  },
+  "taildata": {
+   "devcert": "/Users/benhylak/Downloads/privatekey/macbook.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
